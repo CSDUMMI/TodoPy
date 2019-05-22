@@ -1,3 +1,4 @@
+#! /usr/bin/python3
 import json, sys, time, datetime
 
 class Todo:
